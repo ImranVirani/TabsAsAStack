@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Auto Move Active Tab to End",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
